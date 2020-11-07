@@ -1,0 +1,13 @@
+C:\Users\sarah\workspace\CSharpAlgorithmPractice\obj\Debug\netcoreapp3.1\CSharpAlgorithmPractice.csprojAssemblyReference.cache
+C:\Users\sarah\workspace\CSharpAlgorithmPractice\obj\Debug\netcoreapp3.1\CSharpAlgorithmPractice.AssemblyInfoInputs.cache
+C:\Users\sarah\workspace\CSharpAlgorithmPractice\obj\Debug\netcoreapp3.1\CSharpAlgorithmPractice.AssemblyInfo.cs
+C:\Users\sarah\workspace\CSharpAlgorithmPractice\obj\Debug\netcoreapp3.1\CSharpAlgorithmPractice.csproj.CoreCompileInputs.cache
+C:\Users\sarah\workspace\CSharpAlgorithmPractice\bin\Debug\netcoreapp3.1\CSharpAlgorithmPractice.exe
+C:\Users\sarah\workspace\CSharpAlgorithmPractice\bin\Debug\netcoreapp3.1\CSharpAlgorithmPractice.deps.json
+C:\Users\sarah\workspace\CSharpAlgorithmPractice\bin\Debug\netcoreapp3.1\CSharpAlgorithmPractice.runtimeconfig.json
+C:\Users\sarah\workspace\CSharpAlgorithmPractice\bin\Debug\netcoreapp3.1\CSharpAlgorithmPractice.runtimeconfig.dev.json
+C:\Users\sarah\workspace\CSharpAlgorithmPractice\bin\Debug\netcoreapp3.1\CSharpAlgorithmPractice.dll
+C:\Users\sarah\workspace\CSharpAlgorithmPractice\bin\Debug\netcoreapp3.1\CSharpAlgorithmPractice.pdb
+C:\Users\sarah\workspace\CSharpAlgorithmPractice\obj\Debug\netcoreapp3.1\CSharpAlgorithmPractice.dll
+C:\Users\sarah\workspace\CSharpAlgorithmPractice\obj\Debug\netcoreapp3.1\CSharpAlgorithmPractice.pdb
+C:\Users\sarah\workspace\CSharpAlgorithmPractice\obj\Debug\netcoreapp3.1\CSharpAlgorithmPractice.genruntimeconfig.cache

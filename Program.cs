@@ -1,4 +1,5 @@
 ﻿using CSharpAlgorithmPractice.CardDeck;
+using CSharpAlgorithmPractice.PrimeNumber;
 using System;
 
 namespace CSharpAlgorithmPractice
@@ -26,7 +27,12 @@ namespace CSharpAlgorithmPractice
 
             }
 
-            Console.WriteLine(deck.Cards.Count);
+            var primeNumber = new PrimeNumbers();
+
+            var number = primeNumber.RandomNumber(0, 5000);
+
+            primeNumber.PrimeNumberString(number);
+            
 
 
 

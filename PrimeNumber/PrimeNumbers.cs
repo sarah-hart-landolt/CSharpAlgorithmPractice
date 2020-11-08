@@ -7,6 +7,7 @@ namespace CSharpAlgorithmPractice.PrimeNumber
     public class PrimeNumbers
     {
 
+      
         private readonly Random _random = new Random();
 
         public int RandomNumber(int min, int max)
@@ -29,6 +30,10 @@ namespace CSharpAlgorithmPractice.PrimeNumber
             }
 
         }
+
+        //Create a function named isPrime. 
+        //This function should accept a single integer as an argument 
+        //and return true if it is a prime number or return false if it is not
         public bool IsPrimeNumber(int number)
         {
             if (number <= 1) return false;
